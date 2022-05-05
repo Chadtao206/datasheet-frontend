@@ -680,7 +680,7 @@ class App extends Component {
       store_url: "https://thejoyfactory.com",
       id: null,
       token:
-        "eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzI1NiJ9.eyJjaWQiOjEsImNvcnMiOlsiaHR0cHM6Ly9kYXRhc2hlZXQtYmtlbmR2MS5oZXJva3VhcHAuY29tIl0sImVhdCI6MjE0NjAwMjU3OCwiaWF0IjoxNjUxNzU2NzYxLCJpc3MiOiJCQyIsInNpZCI6MTAwMDY3NjI0MCwic3ViIjoicXNzNHVsazZnZTYyNTRybWl2YWU3amJodjZ4bDBqeCIsInN1Yl90eXBlIjoyLCJ0b2tlbl90eXBlIjoxfQ.LSIix5r5BWeMQRHpMIqQGqFND9ejEVmOlNNJ8qasP7-nVKgFXI2sdYjASZmlOEN4ULCOPUMjgWLeiBkqq_QfZA",
+        "eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzI1NiJ9.eyJjaWQiOjEsImNvcnMiOlsiaHR0cHM6Ly9kYXRhc2hlZXQtYmtlbmR2MS5uZXRsaWZ5LmFwcCJdLCJlYXQiOjIxNDYwMDI1NzgsImlhdCI6MTY1MTc1NzM0NywiaXNzIjoiQkMiLCJzaWQiOjEwMDA2NzYyNDAsInN1YiI6InFzczR1bGs2Z2U2MjU0cm1pdmFlN2piaHY2eGwwangiLCJzdWJfdHlwZSI6MiwidG9rZW5fdHlwZSI6MX0.MGJ6eXgVv694KkcNpSDdR1V3tFTGTPR4b_fp7d0AMORfX8dKjEV0_YJ6qjXJv5c73ZtK_jgI_uIMC9hQFrjRxQ",
     };
 
     // Fill in supplied URL params
